@@ -42,25 +42,43 @@ THEN I am prompted to select an employee to update and their new role and this i
 
 The following video shows an example of the application being used from the command line:
 
-![A screenshot shows the command-line employee management application.](./Assets/12-sql-homework-video-thumbnail.png)
+![A screenshot shows the command-line employee management application.](./Assets/screenshot.png)
 
 ## Motivation
 
+I was motivated to create this project to learn more about SQL and databases.  I was also motivated to create this project to learn more about Node.js and Inquirer as this project adds new functionality to skills I have just recently learned.
+
 ## Why
+
+I believe this project is important because it builds on my previous knowledge of Node.js and inquirer while introducing me to SQL and databases. This project will help me to understand how to use SQL and databases in future projects.
 
 ## What problem does it solve
 
+This will help business owners and managers to view and manage the departments, roles, and employees in their company.  In addition this application will help them to organize and plan their business.
+
 ## What did you learn
+
+I learned the importance of primary and foreign keys in SQL and databases.  I also learned how create shcemas and seed files to create and populate databases.  I also learned how to use SQL to create, read, update, and delete data from databases. I also learned how to use Node.js and Inquirer to create a command line application that interacts with a database.
 
 ## What makes your project stand out
 
+My project stands out because it is an excellent introduction to sequelize implementing mysql2, teaching me how to design models and create associations between them using primary and foreign keys.
+
 ## Installation
+
+npm install to install all dependencies and then npm start to run the application.
 
 ## Usage
 
+This application can be used to view and manage the departments, roles, and employees in a company.  It can also be used to organize and plan a business.
+
 ### Link to Github Repository
 
+<https://github.com/precisecoding/Employee-Tracker>
+
 ### Link to Walkthrough Video
+
+<https://drive.google.com/file/d/1my7F9g6Lx3UeNnV0wqjVisI5wqepXiNF/view>
 
 ### License
 
